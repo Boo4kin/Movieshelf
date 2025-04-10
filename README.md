@@ -42,7 +42,7 @@
 - **keywords.csv**: Ключевые слова для фильмов.
 
 ## Скриншоты
-![Поиск фильмов](images/ppoisk.png)
+![Поиск фильмов](images/poisk.png)
 ![Рекомендации фильмов](images/reki.png)
 
 
